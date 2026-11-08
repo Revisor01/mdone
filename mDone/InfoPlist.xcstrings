@@ -16,6 +16,12 @@
             "state" : "translated",
             "value" : "mDone 会将你的日历日程与任务一同显示，方便你在一个地方规划一天。例如，即将开始的会议会显示在“日历”标签页和“今天”视图中，与待办事项并列。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mDone zeigt deine Kalenderereignisse neben deinen Aufgaben an, damit du deinen Tag an einem Ort planen kannst. So erscheinen etwa deine anstehenden Termine im Tab „Kalender“ und in der Ansicht „Heute“ neben deinen Aufgaben."
+          }
         }
       }
     },
@@ -33,6 +39,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "mDone 会连接到本地网络中的 Vikunja 服务器，以同步任务和项目。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mDone verbindet sich mit deinem lokalen Vikunja-Server, um Aufgaben und Projekte zu synchronisieren."
           }
         }
       }

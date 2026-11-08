@@ -8,6 +8,12 @@
             "state" : "translated",
             "value" : "%lld"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
         }
       }
     },
@@ -38,6 +44,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "%lld个任务今天截止"
+                }
+              }
+            }
+          }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Aufgabe heute fällig"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Aufgaben heute fällig"
                 }
               }
             }
@@ -76,6 +100,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "+%lld weitere"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "+%lld weitere"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -85,6 +127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgabe hinzufügen"
           }
         }
       }
@@ -96,6 +144,12 @@
             "state" : "translated",
             "value" : "添加任务按钮"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taste „Aufgabe hinzufügen“"
+          }
         }
       }
     },
@@ -105,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "全部处理完毕！"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alles erledigt!"
           }
         }
       }
@@ -116,6 +176,12 @@
             "state" : "translated",
             "value" : "紧凑"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kompakt"
+          }
         }
       }
     },
@@ -125,6 +191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "完成%@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ erledigen"
           }
         }
       }
@@ -136,6 +208,12 @@
             "state" : "translated",
             "value" : "完成任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgabe erledigen"
+          }
         }
       }
     },
@@ -145,6 +223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自定义今天的任务在此小组件中的显示方式。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lege fest, wie die heutigen Aufgaben in diesem Widget erscheinen."
           }
         }
       }
@@ -156,6 +240,12 @@
             "state" : "translated",
             "value" : "自定义即将到期的任务在此小组件中的显示方式。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lege fest, wie anstehende Aufgaben in diesem Widget erscheinen."
+          }
         }
       }
     },
@@ -165,6 +255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "字体大小"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schriftgröße"
           }
         }
       }
@@ -176,6 +272,12 @@
             "state" : "translated",
             "value" : "大"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Groß"
+          }
         }
       }
     },
@@ -185,6 +287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在 mDone 中将任务标记为已完成"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markiert eine Aufgabe in mDone als erledigt"
           }
         }
       }
@@ -196,6 +304,12 @@
             "state" : "translated",
             "value" : "下一个任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nächste Aufgabe"
+          }
         }
       }
     },
@@ -205,6 +319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有到期任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine fälligen Aufgaben"
           }
         }
       }
@@ -216,6 +336,12 @@
             "state" : "translated",
             "value" : "今天没有到期任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute ist nichts fällig"
+          }
         }
       }
     },
@@ -225,6 +351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有即将到期的任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine anstehenden Aufgaben"
           }
         }
       }
@@ -236,6 +368,12 @@
             "state" : "translated",
             "value" : "没有逾期事项"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nichts überfällig"
+          }
         }
       }
     },
@@ -245,6 +383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "打开 mDone 以登录"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mDone öffnen, um dich anzumelden"
           }
         }
       }
@@ -256,6 +400,12 @@
             "state" : "translated",
             "value" : "逾期"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Überfällig"
+          }
         }
       }
     },
@@ -265,6 +415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "仅逾期"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nur überfällige"
           }
         }
       }
@@ -276,6 +432,12 @@
             "state" : "translated",
             "value" : "快速添加"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schnell hinzufügen"
+          }
         }
       }
     },
@@ -285,6 +447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "快速向 mDone 添加新任务。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge schnell eine neue Aufgabe zu mDone hinzu."
           }
         }
       }
@@ -296,6 +464,12 @@
             "state" : "translated",
             "value" : "显示"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anzeigen"
+          }
         }
       }
     },
@@ -305,6 +479,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在一行中显示今天截止的任务。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeigt die heute fälligen Aufgaben in einer Zeile."
           }
         }
       }
@@ -316,6 +496,12 @@
             "state" : "translated",
             "value" : "显示今天截止的任务数量。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeigt die Anzahl der heute fälligen Aufgaben."
+          }
         }
       }
     },
@@ -325,6 +511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "显示下一个即将到期的任务。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeigt deine nächste anstehende Aufgabe."
           }
         }
       }
@@ -336,6 +528,12 @@
             "state" : "translated",
             "value" : "登录 mDone"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bei mDone anmelden"
+          }
         }
       }
     },
@@ -345,6 +543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "标准"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard"
           }
         }
       }
@@ -356,6 +560,12 @@
             "state" : "translated",
             "value" : "轻点完成任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tippen, um Aufgaben zu erledigen"
+          }
         }
       }
     },
@@ -365,6 +575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "轻点返回 mDone"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tippen, um zu mDone zurückzukehren"
           }
         }
       }
@@ -376,6 +592,12 @@
             "state" : "translated",
             "value" : "任务数量"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anzahl Aufgaben"
+          }
         }
       }
     },
@@ -385,6 +607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "任务 ID"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgaben-ID"
           }
         }
       }
@@ -396,6 +624,12 @@
             "state" : "translated",
             "value" : "任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgaben"
+          }
         }
       }
     },
@@ -405,6 +639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "到期任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fällige Aufgaben"
           }
         }
       }
@@ -416,6 +656,12 @@
             "state" : "translated",
             "value" : "今天截止和已逾期的任务。长按可自定义。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute fällige und überfällige Aufgaben. Lange drücken zum Anpassen."
+          }
         }
       }
     },
@@ -425,6 +671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "即将到期的任务。长按可自定义。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgaben mit anstehendem Fälligkeitsdatum. Lange drücken zum Anpassen."
           }
         }
       }
@@ -436,6 +688,12 @@
             "state" : "translated",
             "value" : "今天"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute"
+          }
         }
       }
     },
@@ -445,6 +703,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天 + 逾期"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute + überfällig"
           }
         }
       }
@@ -456,6 +720,12 @@
             "state" : "translated",
             "value" : "仅今天"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nur heute"
+          }
         }
       }
     },
@@ -465,6 +735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天的任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heutige Aufgaben"
           }
         }
       }
@@ -476,6 +752,12 @@
             "state" : "translated",
             "value" : "今天的任务设置"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen für heutige Aufgaben"
+          }
         }
       }
     },
@@ -485,6 +767,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "明天"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morgen"
           }
         }
       }
@@ -496,6 +784,12 @@
             "state" : "translated",
             "value" : "即将到期"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Demnächst"
+          }
         }
       }
     },
@@ -505,6 +799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "临近截止日期"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anstehende Fristen"
           }
         }
       }
@@ -516,12 +816,24 @@
             "state" : "translated",
             "value" : "即将到期任务设置"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen für anstehende Aufgaben"
+          }
         }
       }
     },
     "mDone" : {
       "localizations" : {
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mDone"
+          }
+        },
+        "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "mDone"

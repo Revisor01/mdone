@@ -8,6 +8,12 @@
             "state" : "translated",
             "value" : "“%@”无法同步：%@"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "„%@“ konnte nicht synchronisiert werden: %@"
+          }
         }
       }
     },
@@ -20,6 +26,12 @@
             "state" : "translated",
             "value" : "%@列，%@个任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spalte %@, %@ Aufgaben"
+          }
         }
       }
     },
@@ -29,6 +41,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@评论了“%@”"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ hat „%@“ kommentiert"
           }
         }
       }
@@ -40,6 +58,12 @@
             "state" : "translated",
             "value" : "%@更新了“%@”"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ hat „%@“ aktualisiert"
+          }
         }
       }
     },
@@ -49,6 +73,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@更新了项目“%@”"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ hat das Projekt „%@“ aktualisiert"
           }
         }
       }
@@ -80,6 +110,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "%@ · %lld次专注"
+                }
+              }
+            }
+          }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%@ · %lld Sitzung"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%@ · %lld Sitzungen"
                 }
               }
             }
@@ -119,6 +167,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%@, %lld Aufgabe"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%@, %lld Aufgaben"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -128,6 +194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@，今天"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@, heute"
           }
         }
       }
@@ -163,12 +235,36 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%@, heute, %lld Aufgabe"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%@, heute, %lld Aufgaben"
+                }
+              }
+            }
+          }
         }
       }
     },
     "%lld" : {
       "localizations" : {
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld"
@@ -207,6 +303,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Tag vor Fälligkeit"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Tage vor Fälligkeit"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -241,6 +355,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Fokussitzung wurde wiederhergestellt."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Fokussitzungen wurden wiederhergestellt."
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -250,6 +382,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld小时"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Std."
           }
         }
       }
@@ -285,6 +423,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Stunde vor Fälligkeit"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Stunden vor Fälligkeit"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -295,6 +451,12 @@
             "state" : "translated",
             "value" : "剩余%lld个"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "noch %lld"
+          }
         }
       }
     },
@@ -304,6 +466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld分钟"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Min."
           }
         }
       }
@@ -339,17 +507,59 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Min. vor Fälligkeit"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Min. vor Fälligkeit"
+                }
+              }
+            }
+          }
         }
       }
     },
-    "%lld of %lld checklist items done" : {},
-    "%lld of %lld done" : {},
+    "%lld of %lld checklist items done" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld von %lld Punkten der Checkliste erledigt"
+          }
+        }
+      }
+    },
+    "%lld of %lld done" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld von %lld erledigt"
+          }
+        }
+      }
+    },
     "%lld percent" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "百分之%lld"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Prozent"
           }
         }
       }
@@ -360,6 +570,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "跳过%lld个"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld übersprungen"
           }
         }
       }
@@ -449,6 +665,54 @@
               }
             }
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@changes@ und %#@sessions@ wurden wiederhergestellt."
+          },
+          "substitutions" : {
+            "changes" : {
+              "argNum" : 1,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg nicht synchronisierte Änderung"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg nicht synchronisierte Änderungen"
+                    }
+                  }
+                }
+              }
+            },
+            "sessions" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg Fokussitzung"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg Fokussitzungen"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -483,6 +747,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld nicht synchronisierte Änderung wurde wiederhergestellt."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld nicht synchronisierte Änderungen wurden wiederhergestellt."
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -493,12 +775,24 @@
             "state" : "translated",
             "value" : "%lld%%"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld %%"
+          }
         }
       }
     },
     "%lld/%lld" : {
       "localizations" : {
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld/%lld"
+          }
+        },
+        "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld/%lld"
@@ -513,12 +807,24 @@
             "state" : "translated",
             "value" : "已完成%lld/%lld"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld/%lld erledigt"
+          }
         }
       }
     },
     "+%lld" : {
       "localizations" : {
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%lld"
+          }
+        },
+        "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "+%lld"
@@ -533,6 +839,12 @@
             "state" : "translated",
             "value" : "+24小时"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+24 Std."
+          }
         }
       }
     },
@@ -542,6 +854,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "提前1天"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 Tag vorher"
           }
         }
       }
@@ -553,6 +871,12 @@
             "state" : "translated",
             "value" : "提前1小时"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 Stunde vorher"
+          }
         }
       }
     },
@@ -562,6 +886,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "中午12:00"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12:00"
           }
         }
       }
@@ -573,6 +903,12 @@
             "state" : "translated",
             "value" : "提前15分钟"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 Minuten vorher"
+          }
         }
       }
     },
@@ -582,6 +918,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "提前30分钟"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 Minuten vorher"
           }
         }
       }
@@ -593,6 +935,12 @@
             "state" : "translated",
             "value" : "提前5分钟"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 Minuten vorher"
+          }
         }
       }
     },
@@ -602,6 +950,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "下午5:00"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "17:00"
           }
         }
       }
@@ -613,6 +967,12 @@
             "state" : "translated",
             "value" : "6位验证码"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6-stelliger Code"
+          }
         }
       }
     },
@@ -622,6 +982,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "6位验证码（如已启用）"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6-stelliger Code (falls aktiviert)"
           }
         }
       }
@@ -633,6 +999,12 @@
             "state" : "translated",
             "value" : "下午6:00"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "18:00"
+          }
         }
       }
     },
@@ -642,6 +1014,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "上午9:00"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "9:00"
           }
         }
       }
@@ -653,6 +1031,12 @@
             "state" : "translated",
             "value" : "晚上9:00"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "21:00"
+          }
         }
       }
     },
@@ -662,6 +1046,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "原生 Vikunja 任务管理器。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine native Aufgabenverwaltung für Vikunja."
           }
         }
       }
@@ -673,6 +1063,12 @@
             "state" : "translated",
             "value" : "一项排队中的更改无法同步：%@"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine wartende Änderung konnte nicht synchronisiert werden: %@"
+          }
         }
       }
     },
@@ -682,6 +1078,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "API 令牌"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "API-Token"
           }
         }
       }
@@ -693,6 +1095,12 @@
             "state" : "translated",
             "value" : "关于"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über"
+          }
         }
       }
     },
@@ -702,6 +1110,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "关于 mDone"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über mDone"
           }
         }
       }
@@ -713,6 +1127,12 @@
             "state" : "translated",
             "value" : "添加"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinzufügen"
+          }
         }
       }
     },
@@ -722,6 +1142,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "将 ${taskTitle} 添加到 ${project}"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "${taskTitle} zu ${project} hinzufügen"
           }
         }
       }
@@ -733,6 +1159,12 @@
             "state" : "translated",
             "value" : "添加标签"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Labels hinzufügen"
+          }
         }
       }
     },
@@ -742,6 +1174,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加提醒"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erinnerung hinzufügen"
           }
         }
       }
@@ -753,6 +1191,12 @@
             "state" : "translated",
             "value" : "添加任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgabe hinzufügen"
+          }
         }
       }
     },
@@ -762,6 +1206,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加一个任务以开始使用"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge eine Aufgabe hinzu, um loszulegen"
           }
         }
       }
@@ -773,6 +1223,12 @@
             "state" : "translated",
             "value" : "向此项目添加一个任务。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge diesem Projekt eine Aufgabe hinzu."
+          }
         }
       }
     },
@@ -782,6 +1238,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加任务..."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgabe hinzufügen …"
           }
         }
       }
@@ -793,6 +1255,12 @@
             "state" : "translated",
             "value" : "添加子任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unteraufgabe hinzufügen"
+          }
         }
       }
     },
@@ -802,6 +1270,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgabe hinzufügen"
           }
         }
       }
@@ -813,6 +1287,12 @@
             "state" : "translated",
             "value" : "添加时间估算"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeitschätzung hinzufügen"
+          }
         }
       }
     },
@@ -822,6 +1302,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加到收藏"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zu Favoriten hinzufügen"
           }
         }
       }
@@ -833,6 +1319,12 @@
             "state" : "translated",
             "value" : "已将“%@”添加到%@，截止时间为%@。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "„%@“ zu %@ hinzugefügt, fällig %@."
+          }
         }
       }
     },
@@ -842,6 +1334,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已将“%@”添加到%@，截止时间为%@。恢复在线后将同步。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "„%@“ zu %@ hinzugefügt, fällig %@. Wird synchronisiert, sobald du wieder online bist."
           }
         }
       }
@@ -853,6 +1351,12 @@
             "state" : "translated",
             "value" : "已将“%@”添加到%@。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "„%@“ zu %@ hinzugefügt."
+          }
         }
       }
     },
@@ -862,6 +1366,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已将“%@”添加到%@。恢复在线后将同步。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "„%@“ zu %@ hinzugefügt. Wird synchronisiert, sobald du wieder online bist."
           }
         }
       }
@@ -873,6 +1383,12 @@
             "state" : "translated",
             "value" : "无需打开应用即可向 mDone 添加任务。离线时任务会被保留，并在重新连接后发送。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fügt mDone eine Aufgabe hinzu, ohne die App zu öffnen. Bist du offline, wird die Aufgabe aufbewahrt und gesendet, sobald du wieder verbunden bist."
+          }
         }
       }
     },
@@ -882,6 +1398,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "高级筛选"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erweiterter Filter"
           }
         }
       }
@@ -893,6 +1415,12 @@
             "state" : "translated",
             "value" : "高级筛选"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erweiterter Filter"
+          }
         }
       }
     },
@@ -902,6 +1430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "高级筛选已启用"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erweiterter Filter aktiv"
           }
         }
       }
@@ -913,6 +1447,12 @@
             "state" : "translated",
             "value" : "全部"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle"
+          }
         }
       }
     },
@@ -922,6 +1462,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日无待办"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute alles erledigt"
           }
         }
       }
@@ -933,6 +1479,12 @@
             "state" : "translated",
             "value" : "全天"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ganztägig"
+          }
         }
       }
     },
@@ -942,6 +1494,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "全部完成！"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alles erledigt!"
           }
         }
       }
@@ -953,6 +1511,12 @@
             "state" : "translated",
             "value" : "你的所有任务都已设置截止日期。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle deine Aufgaben haben ein Fälligkeitsdatum."
+          }
         }
       }
     },
@@ -962,6 +1526,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "API 令牌可以单独撤销，无需更改密码。请在 Vikunja 的“设置”→“API 令牌”中创建令牌并授予所有权限，否则 mDone 的部分操作可能会失败。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein API-Token lässt sich einzeln widerrufen, ohne dein Passwort zu ändern. Erstelle es in Vikunja unter „Einstellungen“ > „API-Tokens“ mit allen Berechtigungen, sonst schlagen manche Aktionen in mDone fehl."
           }
         }
       }
@@ -973,6 +1543,12 @@
             "state" : "translated",
             "value" : "任意"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beliebig"
+          }
         }
       }
     },
@@ -982,6 +1558,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "外观"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Darstellung"
           }
         }
       }
@@ -993,6 +1575,12 @@
             "state" : "translated",
             "value" : "应用"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anwenden"
+          }
         }
       }
     },
@@ -1002,6 +1590,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "归档"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Archivieren"
           }
         }
       }
@@ -1013,6 +1607,12 @@
             "state" : "translated",
             "value" : "改为归档"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stattdessen archivieren"
+          }
         }
       }
     },
@@ -1022,6 +1622,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已归档"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Archiviert"
           }
         }
       }
@@ -1033,6 +1639,12 @@
             "state" : "translated",
             "value" : "指派"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zuweisen"
+          }
         }
       }
     },
@@ -1042,6 +1654,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "指派成员"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personen zuweisen"
           }
         }
       }
@@ -1053,6 +1671,12 @@
             "state" : "translated",
             "value" : "已指派给 %@"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ zugewiesen"
+          }
         }
       }
     },
@@ -1062,6 +1686,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "指派给我的"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mir zugewiesen"
           }
         }
       }
@@ -1073,6 +1703,12 @@
             "state" : "translated",
             "value" : "负责人"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zuständig"
+          }
         }
       }
     },
@@ -1082,6 +1718,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "负责人"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zuständige"
           }
         }
       }
@@ -1093,6 +1735,12 @@
             "state" : "translated",
             "value" : "截止时"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zum Fälligkeitszeitpunkt"
+          }
         }
       }
     },
@@ -1103,16 +1751,37 @@
             "state" : "translated",
             "value" : "认证方式"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anmeldemethode"
+          }
         }
       }
     },
-    "Automatic" : {},
+    "Automatic" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatisch"
+          }
+        }
+      }
+    },
     "Bearer token" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bearer 令牌"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bearer-Token"
           }
         }
       }
@@ -1124,6 +1793,12 @@
             "state" : "translated",
             "value" : "被阻塞于"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blockiert durch"
+          }
         }
       }
     },
@@ -1133,6 +1808,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "阻塞"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blockiert andere"
           }
         }
       }
@@ -1144,6 +1825,12 @@
             "state" : "translated",
             "value" : "看板"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Board"
+          }
         }
       }
     },
@@ -1153,6 +1840,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请我喝杯咖啡"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spendier mir einen Kaffee"
           }
         }
       }
@@ -1164,6 +1857,12 @@
             "state" : "translated",
             "value" : "日历"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalender"
+          }
         }
       }
     },
@@ -1173,6 +1872,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "日历"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalender"
           }
         }
       }
@@ -1184,6 +1889,12 @@
             "state" : "translated",
             "value" : "mDone 中的日历"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalender in mDone"
+          }
         }
       }
     },
@@ -1193,6 +1904,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "平静模式"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruhige Ansicht"
           }
         }
       }
@@ -1204,6 +1921,12 @@
             "state" : "translated",
             "value" : "无法连接服务器。请检查网络连接和服务器 URL。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Server ist nicht erreichbar. Prüfe deine Verbindung und die Server-Adresse."
+          }
         }
       }
     },
@@ -1213,6 +1936,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
           }
         }
       }
@@ -1224,6 +1953,12 @@
             "state" : "translated",
             "value" : "更改"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ändern"
+          }
         }
       }
     },
@@ -1233,6 +1968,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更改负责人"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zuständige ändern"
           }
         }
       }
@@ -1244,6 +1985,12 @@
             "state" : "translated",
             "value" : "更改尚未同步"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Änderung noch nicht synchronisiert"
+          }
         }
       }
     },
@@ -1253,6 +2000,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请检查 Wi-Fi 或蜂窝数据是否已开启。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prüfe, ob WLAN oder mobile Daten eingeschaltet sind."
           }
         }
       }
@@ -1264,16 +2017,37 @@
             "state" : "translated",
             "value" : "请检查用户名和密码，然后重试。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prüfe Benutzername und Passwort und versuche es erneut."
+          }
         }
       }
     },
-    "Checklist" : {},
+    "Checklist" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Checkliste"
+          }
+        }
+      }
+    },
     "Choose a section from the sidebar" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "从侧边栏选择一个部分"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wähle einen Bereich in der Seitenleiste"
           }
         }
       }
@@ -1285,6 +2059,12 @@
             "state" : "translated",
             "value" : "选择一个任务以查看详情"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wähle eine Aufgabe, um ihre Details zu sehen"
+          }
         }
       }
     },
@@ -1294,6 +2074,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "清除估算"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schätzung entfernen"
           }
         }
       }
@@ -1305,6 +2091,12 @@
             "state" : "translated",
             "value" : "关闭"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schließen"
+          }
         }
       }
     },
@@ -1314,6 +2106,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "折叠%@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ einklappen"
           }
         }
       }
@@ -1325,6 +2123,12 @@
             "state" : "translated",
             "value" : "颜色"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Farbe"
+          }
         }
       }
     },
@@ -1334,6 +2138,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "颜色%@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Farbe %@"
           }
         }
       }
@@ -1345,6 +2155,12 @@
             "state" : "translated",
             "value" : "紧凑"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kompakt"
+          }
         }
       }
     },
@@ -1354,6 +2170,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已完成"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erledigt"
           }
         }
       }
@@ -1365,6 +2187,12 @@
             "state" : "translated",
             "value" : "完成状态"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
         }
       }
     },
@@ -1374,6 +2202,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已配置"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eingerichtet"
           }
         }
       }
@@ -1385,6 +2219,12 @@
             "state" : "translated",
             "value" : "连接"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbinden"
+          }
         }
       }
     },
@@ -1394,6 +2234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "连接到你的 Vikunja 服务器"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit deinem Vikunja-Server verbinden"
           }
         }
       }
@@ -1405,6 +2251,12 @@
             "state" : "translated",
             "value" : "连接服务器以加载任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbinde dich mit deinem Server, um deine Aufgaben zu laden"
+          }
         }
       }
     },
@@ -1414,6 +2266,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已连接"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbunden"
           }
         }
       }
@@ -1425,6 +2283,12 @@
             "state" : "translated",
             "value" : "使用%@继续"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weiter mit %@"
+          }
         }
       }
     },
@@ -1434,6 +2298,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "复制自"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopiert von"
           }
         }
       }
@@ -1445,6 +2315,12 @@
             "state" : "translated",
             "value" : "复制到"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopiert nach"
+          }
         }
       }
     },
@@ -1454,6 +2330,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法打开登录窗口。请重试。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Anmeldefenster konnte nicht geöffnet werden. Bitte versuche es erneut."
           }
         }
       }
@@ -1465,6 +2347,12 @@
             "state" : "translated",
             "value" : "创建“%@”"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "„%@“ erstellen"
+          }
         }
       }
     },
@@ -1474,6 +2362,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "创建一个任务以开始使用。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erstelle eine Aufgabe, um loszulegen."
           }
         }
       }
@@ -1485,6 +2379,12 @@
             "state" : "translated",
             "value" : "创建第一个项目来整理任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erstelle dein erstes Projekt, um deine Aufgaben zu ordnen"
+          }
         }
       }
     },
@@ -1494,6 +2394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "严重"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kritisch"
           }
         }
       }
@@ -1505,6 +2411,12 @@
             "state" : "translated",
             "value" : "当前"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuell"
+          }
         }
       }
     },
@@ -1514,6 +2426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "当前任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuelle Aufgaben"
           }
         }
       }
@@ -1525,6 +2443,12 @@
             "state" : "translated",
             "value" : "自定义估算"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eigene Schätzung"
+          }
         }
       }
     },
@@ -1534,6 +2458,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自定义范围"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eigener Zeitraum"
           }
         }
       }
@@ -1545,6 +2475,12 @@
             "state" : "translated",
             "value" : "自定义提醒"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eigene Erinnerung"
+          }
         }
       }
     },
@@ -1554,6 +2490,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自定义日期..."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eigenes Datum …"
           }
         }
       }
@@ -1565,6 +2507,12 @@
             "state" : "translated",
             "value" : "自定义…"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eigene …"
+          }
         }
       }
     },
@@ -1574,6 +2522,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每天"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Täglich"
           }
         }
       }
@@ -1585,6 +2539,12 @@
             "state" : "translated",
             "value" : "数据"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daten"
+          }
         }
       }
     },
@@ -1594,6 +2554,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "日期"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datum"
           }
         }
       }
@@ -1605,6 +2571,12 @@
             "state" : "translated",
             "value" : "日期范围"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeitraum"
+          }
         }
       }
     },
@@ -1615,16 +2587,37 @@
             "state" : "translated",
             "value" : "默认截止时间"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard-Fälligkeitszeit"
+          }
         }
       }
     },
-    "Default project" : {},
+    "Default project" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standardprojekt"
+          }
+        }
+      }
+    },
     "Delete" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Löschen"
           }
         }
       }
@@ -1636,6 +2629,12 @@
             "state" : "translated",
             "value" : "删除%@？"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ löschen?"
+          }
         }
       }
     },
@@ -1645,6 +2644,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除项目"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projekt löschen"
           }
         }
       }
@@ -1656,6 +2661,12 @@
             "state" : "translated",
             "value" : "删除任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgabe löschen"
+          }
         }
       }
     },
@@ -1665,6 +2676,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除任务？"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgabe löschen?"
           }
         }
       }
@@ -1676,6 +2693,12 @@
             "state" : "translated",
             "value" : "送达"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zugestellt"
+          }
         }
       }
     },
@@ -1685,6 +2708,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "描述"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beschreibung"
           }
         }
       }
@@ -1696,6 +2725,12 @@
             "state" : "translated",
             "value" : "已丢弃"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verworfen"
+          }
         }
       }
     },
@@ -1705,6 +2740,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "断开连接"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trennen"
           }
         }
       }
@@ -1716,6 +2757,12 @@
             "state" : "translated",
             "value" : "断开连接？"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbindung trennen?"
+          }
         }
       }
     },
@@ -1725,6 +2772,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已断开连接"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Getrennt"
           }
         }
       }
@@ -1736,6 +2789,12 @@
             "state" : "translated",
             "value" : "关闭"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausblenden"
+          }
         }
       }
     },
@@ -1745,6 +2804,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "忽略时间估算建议"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schätzungsvorschlag ausblenden"
           }
         }
       }
@@ -1756,16 +2821,37 @@
             "state" : "translated",
             "value" : "完成"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fertig"
+          }
         }
       }
     },
-    "Double tap to toggle" : {},
+    "Double tap to toggle" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zum Umschalten doppeltippen"
+          }
+        }
+      }
+    },
     "Due Date" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "截止日期"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fälligkeitsdatum"
           }
         }
       }
@@ -1777,6 +2863,12 @@
             "state" : "translated",
             "value" : "截止日期"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fälligkeitsdatum"
+          }
         }
       }
     },
@@ -1786,6 +2878,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "7天内截止"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In 7 Tagen fällig"
           }
         }
       }
@@ -1797,6 +2895,12 @@
             "state" : "translated",
             "value" : "重复于"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duplikat von"
+          }
         }
       }
     },
@@ -1806,6 +2910,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重复项"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duplikate"
           }
         }
       }
@@ -1817,6 +2927,12 @@
             "state" : "translated",
             "value" : "编辑"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bearbeiten"
+          }
         }
       }
     },
@@ -1826,6 +2942,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "编辑负责人"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zuständige bearbeiten"
           }
         }
       }
@@ -1837,6 +2959,12 @@
             "state" : "translated",
             "value" : "编辑标签"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Labels bearbeiten"
+          }
         }
       }
     },
@@ -1846,6 +2974,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "编辑项目"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projekt bearbeiten"
           }
         }
       }
@@ -1857,6 +2991,12 @@
             "state" : "translated",
             "value" : "编辑任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgabe bearbeiten"
+          }
         }
       }
     },
@@ -1866,6 +3006,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "编辑描述"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beschreibung bearbeiten"
           }
         }
       }
@@ -1877,6 +3023,12 @@
             "state" : "translated",
             "value" : "编辑…"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bearbeiten …"
+          }
         }
       }
     },
@@ -1886,6 +3038,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已用时间：%@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vergangene Zeit: %@"
           }
         }
       }
@@ -1897,6 +3055,12 @@
             "state" : "translated",
             "value" : "启用提醒"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erinnerungen aktivieren"
+          }
         }
       }
     },
@@ -1906,6 +3070,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "启用日历访问权限以查看日程"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erlaube den Kalenderzugriff, um Termine zu sehen"
           }
         }
       }
@@ -1917,6 +3087,12 @@
             "state" : "translated",
             "value" : "结束"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ende"
+          }
         }
       }
     },
@@ -1926,6 +3102,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "结束日期"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ende"
           }
         }
       }
@@ -1937,6 +3119,12 @@
             "state" : "translated",
             "value" : "结束专注"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokus beenden"
+          }
         }
       }
     },
@@ -1946,6 +3134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "结束专注时段"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokussitzung beenden"
           }
         }
       }
@@ -1957,6 +3151,12 @@
             "state" : "translated",
             "value" : "当天结束时"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tagesende"
+          }
         }
       }
     },
@@ -1967,6 +3167,12 @@
             "state" : "translated",
             "value" : "结束于%@"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endet %@"
+          }
         }
       }
     },
@@ -1976,6 +3182,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "预计用时"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geschätzte Dauer"
           }
         }
       }
@@ -2007,6 +3219,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "每%lld天"
+                }
+              }
+            }
+          }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Jeden %lld. Tag"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Alle %lld Tage"
                 }
               }
             }
@@ -2045,6 +3275,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Jede %lld. Stunde"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Alle %lld Stunden"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -2054,6 +3302,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每两周"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle 2 Wochen"
           }
         }
       }
@@ -2065,6 +3319,12 @@
             "state" : "translated",
             "value" : "其他所有未完成任务都已与此任务关联。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle anderen offenen Aufgaben sind bereits mit dieser verknüpft."
+          }
         }
       }
     },
@@ -2074,6 +3334,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "展开%@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ aufklappen"
           }
         }
       }
@@ -2085,6 +3351,12 @@
             "state" : "translated",
             "value" : "收藏"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoriten"
+          }
         }
       }
     },
@@ -2094,6 +3366,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "反馈"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback"
           }
         }
       }
@@ -2105,6 +3383,12 @@
             "state" : "translated",
             "value" : "筛选任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgaben filtern"
+          }
         }
       }
     },
@@ -2114,6 +3398,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "筛选条件：%@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter: %@"
           }
         }
       }
@@ -2125,6 +3415,12 @@
             "state" : "translated",
             "value" : "专注"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokus"
+          }
         }
       }
     },
@@ -2134,6 +3430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "专注历史同步"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokusverlauf synchronisieren"
           }
         }
       }
@@ -2145,6 +3447,12 @@
             "state" : "translated",
             "value" : "专注模式"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokusmodus"
+          }
         }
       }
     },
@@ -2154,6 +3462,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "连续专注"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokusserie"
           }
         }
       }
@@ -2165,6 +3479,12 @@
             "state" : "translated",
             "value" : "连续专注已完成"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokusserie abgeschlossen"
+          }
         }
       }
     },
@@ -2174,6 +3494,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "从此处开始连续专注"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokusserie ab hier"
           }
         }
       }
@@ -2185,6 +3511,12 @@
             "state" : "translated",
             "value" : "连续专注 · 剩余%lld个"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokusserie · noch %lld"
+          }
         }
       }
     },
@@ -2194,6 +3526,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "专注此任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auf diese Aufgabe fokussieren"
           }
         }
       }
@@ -2205,6 +3543,12 @@
             "state" : "translated",
             "value" : "完成任务时，专注记录会自动同步。服务器使用每次记录的 client_id 进行幂等重试，因此重复发送同一记录不会产生重复数据。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokussitzungen werden automatisch synchronisiert, wenn du eine Aufgabe erledigst. Der Server erkennt jede Sitzung an ihrer client_id, daher entstehen beim erneuten Senden derselben Sitzung keine Duplikate."
+          }
         }
       }
     },
@@ -2214,6 +3558,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已专注"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokussiert"
           }
         }
       }
@@ -2249,6 +3599,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%@ fokussiert, %lld Sitzung"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%@ fokussiert, %lld Sitzungen"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -2258,6 +3626,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "专注中"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Fokus"
           }
         }
       }
@@ -2269,6 +3643,12 @@
             "state" : "translated",
             "value" : "正在专注于%@。轻点以打开专注时段。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokus auf %@. Tippen, um die Fokussitzung zu öffnen."
+          }
         }
       }
     },
@@ -2278,6 +3658,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "后于"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folgt auf"
           }
         }
       }
@@ -2289,6 +3675,12 @@
             "state" : "translated",
             "value" : "适用于你在 Vikunja 中与他人共享的项目。显示每个任务的负责人，可在添加或编辑任务时指派成员，并新增“指派给我的”筛选。如果你只是个人使用 mDone，请保持关闭。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Für Projekte, die du in Vikunja mit anderen teilst. Zeigt, wer für eine Aufgabe zuständig ist, lässt dich beim Hinzufügen oder Bearbeiten Personen zuweisen und ergänzt den Filter „Mir zugewiesen“. Lass es aus, wenn du mDone allein nutzt."
+          }
         }
       }
     },
@@ -2298,6 +3690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "从"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Von"
           }
         }
       }
@@ -2309,6 +3707,12 @@
             "state" : "translated",
             "value" : "前往“设置”，使用账户凭据或新的 API 令牌登录。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffne die Einstellungen und melde dich mit deinen Zugangsdaten oder einem neuen API-Token an."
+          }
         }
       }
     },
@@ -2318,6 +3722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "前往今天"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zu heute"
           }
         }
       }
@@ -2329,6 +3739,12 @@
             "state" : "translated",
             "value" : "做得好，一切都井井有条！"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Super, du hast alles im Griff!"
+          }
         }
       }
     },
@@ -2338,6 +3754,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "有标签"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit Labels"
           }
         }
       }
@@ -2349,6 +3771,12 @@
             "state" : "translated",
             "value" : "全部隐藏"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle ausblenden"
+          }
         }
       }
     },
@@ -2358,6 +3786,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "隐藏令牌"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Token ausblenden"
           }
         }
       }
@@ -2369,6 +3803,12 @@
             "state" : "translated",
             "value" : "高"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoch"
+          }
         }
       }
     },
@@ -2378,6 +3818,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "高优先级"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hohe Priorität"
           }
         }
       }
@@ -2389,6 +3835,12 @@
             "state" : "translated",
             "value" : "小时"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stunden"
+          }
         }
       }
     },
@@ -2398,6 +3850,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "闲置%lld天"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inaktiv %lld T"
           }
         }
       }
@@ -2433,6 +3891,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Inaktiv-Markierung nach %lld Tag"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Inaktiv-Markierung nach %lld Tagen"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -2442,6 +3918,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "如果问题持续出现，请尝试退出后重新登录。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn das weiterhin passiert, melde dich ab und wieder an."
           }
         }
       }
@@ -2453,6 +3935,12 @@
             "state" : "translated",
             "value" : "在 Vikunja 中创建一个勾选了所有权限的新 API 令牌，然后在“设置”中使用它登录。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erstelle in Vikunja ein neues API-Token mit allen Berechtigungen und melde dich damit in den Einstellungen an."
+          }
         }
       }
     },
@@ -2463,16 +3951,37 @@
             "state" : "translated",
             "value" : "收件箱"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eingang"
+          }
         }
       }
     },
-    "Inbox adds tasks due" : {},
+    "Inbox adds tasks due" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eingang zeigt auch fällige Aufgaben"
+          }
+        }
+      }
+    },
     "Invalid date range. Start date must not be after end date." : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "日期范围无效。开始日期不能晚于结束日期。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ungültiger Zeitraum. Der Beginn darf nicht nach dem Ende liegen."
           }
         }
       }
@@ -2484,6 +3993,12 @@
             "state" : "translated",
             "value" : "标签"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Labels"
+          }
         }
       }
     },
@@ -2493,6 +4008,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "大"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Groß"
           }
         }
       }
@@ -2504,6 +4025,12 @@
             "state" : "translated",
             "value" : "这是本轮最后一个任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Letzte Aufgabe dieser Serie"
+          }
         }
       }
     },
@@ -2513,6 +4040,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "本周稍后"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Später diese Woche"
           }
         }
       }
@@ -2524,6 +4057,12 @@
             "state" : "translated",
             "value" : "留空可仅在设备上保留专注历史。两个字段都填写后，已完成的专注记录将发送到你的 focus-service，以便跨任务分析（mdone#62）。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leer lassen, um den Fokusverlauf nur auf dem Gerät zu speichern. Sind beide Felder ausgefüllt, werden abgeschlossene Fokussitzungen an deinen Fokusdienst gesendet, damit sie aufgabenübergreifend ausgewertet werden können (mdone#62)."
+          }
         }
       }
     },
@@ -2533,6 +4072,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "将%@关联为子任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ als Unteraufgabe verknüpfen"
           }
         }
       }
@@ -2544,6 +4089,12 @@
             "state" : "translated",
             "value" : "关联现有任务…"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorhandene Aufgabe verknüpfen …"
+          }
         }
       }
     },
@@ -2553,6 +4104,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "关联子任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unteraufgabe verknüpfen"
           }
         }
       }
@@ -2564,6 +4121,12 @@
             "state" : "translated",
             "value" : "列表"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liste"
+          }
         }
       }
     },
@@ -2573,6 +4136,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在加载"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laden"
           }
         }
       }
@@ -2584,6 +4153,12 @@
             "state" : "translated",
             "value" : "正在加载..."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laden …"
+          }
         }
       }
     },
@@ -2593,6 +4168,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "登录"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anmelden"
           }
         }
       }
@@ -2604,6 +4185,12 @@
             "state" : "translated",
             "value" : "低"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niedrig"
+          }
         }
       }
     },
@@ -2613,6 +4200,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请确保设备时间准确，然后输入新的验证码。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prüfe, ob die Uhrzeit deines Geräts stimmt, und gib dann einen neuen Code ein."
           }
         }
       }
@@ -2624,6 +4217,12 @@
             "state" : "translated",
             "value" : "请确保服务器运行的是兼容版本的 Vikunja。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stelle sicher, dass auf deinem Server eine kompatible Vikunja-Version läuft."
+          }
         }
       }
     },
@@ -2633,6 +4232,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "手动"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manuell"
           }
         }
       }
@@ -2644,6 +4249,12 @@
             "state" : "translated",
             "value" : "将%@标记为已完成"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ als erledigt markieren"
+          }
         }
       }
     },
@@ -2653,6 +4264,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "将%@标记为未完成"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ als nicht erledigt markieren"
           }
         }
       }
@@ -2664,6 +4281,12 @@
             "state" : "translated",
             "value" : "全部标为已读"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle als gelesen markieren"
+          }
         }
       }
     },
@@ -2673,6 +4296,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "标记为完成"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als erledigt markieren"
           }
         }
       }
@@ -2684,6 +4313,12 @@
             "state" : "translated",
             "value" : "标记为未完成"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als nicht erledigt markieren"
+          }
         }
       }
     },
@@ -2693,6 +4328,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "标记为未完成"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als nicht erledigt markieren"
           }
         }
       }
@@ -2704,6 +4345,12 @@
             "state" : "translated",
             "value" : "标记为“当前”"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als aktuell markieren"
+          }
         }
       }
     },
@@ -2713,6 +4360,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "将任务标记为完成"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgabe als erledigt markieren"
           }
         }
       }
@@ -2724,6 +4377,12 @@
             "state" : "translated",
             "value" : "中"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mittel"
+          }
         }
       }
     },
@@ -2733,6 +4392,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "分钟"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minuten"
           }
         }
       }
@@ -2744,6 +4409,12 @@
             "state" : "translated",
             "value" : "星期一"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montag"
+          }
         }
       }
     },
@@ -2753,6 +4424,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每月"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monatlich"
           }
         }
       }
@@ -2764,6 +4441,12 @@
             "state" : "translated",
             "value" : "移动到"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verschieben nach"
+          }
         }
       }
     },
@@ -2773,6 +4456,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "移动到…"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewegen nach …"
           }
         }
       }
@@ -2784,6 +4473,12 @@
             "state" : "translated",
             "value" : "永不"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie"
+          }
         }
       }
     },
@@ -2793,6 +4488,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "新建项目"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neues Projekt"
           }
         }
       }
@@ -2804,6 +4505,12 @@
             "state" : "translated",
             "value" : "新建任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue Aufgabe"
+          }
         }
       }
     },
@@ -2813,6 +4520,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "下个月"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nächster Monat"
           }
         }
       }
@@ -2824,6 +4537,12 @@
             "state" : "translated",
             "value" : "下周"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nächste Woche"
+          }
         }
       }
     },
@@ -2833,6 +4552,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "下个月"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nächster Monat"
           }
         }
       }
@@ -2844,6 +4569,12 @@
             "state" : "translated",
             "value" : "没有进行中的任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine aktiven Aufgaben"
+          }
         }
       }
     },
@@ -2853,6 +4584,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有已归档的项目"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine archivierten Projekte"
           }
         }
       }
@@ -2864,6 +4601,12 @@
             "state" : "translated",
             "value" : "没有日历"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Kalender"
+          }
         }
       }
     },
@@ -2873,6 +4616,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无日期"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kein Datum"
           }
         }
       }
@@ -2884,6 +4633,12 @@
             "state" : "translated",
             "value" : "无匹配项"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Treffer"
+          }
         }
       }
     },
@@ -2893,6 +4648,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有通知"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Mitteilungen"
           }
         }
       }
@@ -2904,6 +4665,12 @@
             "state" : "translated",
             "value" : "没有逾期任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine überfälligen Aufgaben"
+          }
         }
       }
     },
@@ -2913,6 +4680,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Aufgaben"
           }
         }
       }
@@ -2924,6 +4697,12 @@
             "state" : "translated",
             "value" : "项目中没有任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Aufgaben im Projekt"
+          }
         }
       }
     },
@@ -2933,6 +4712,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有可关联的任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Aufgaben zum Verknüpfen"
           }
         }
       }
@@ -2944,6 +4729,12 @@
             "state" : "translated",
             "value" : "没有未设日期的任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Aufgaben ohne Datum"
+          }
         }
       }
     },
@@ -2953,6 +4744,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有已归档的项目"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine archivierten Projekte"
           }
         }
       }
@@ -2964,6 +4761,12 @@
             "state" : "translated",
             "value" : "没有缓存的任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine zwischengespeicherten Aufgaben"
+          }
         }
       }
     },
@@ -2973,6 +4776,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无颜色"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Farbe"
           }
         }
       }
@@ -2984,6 +4793,12 @@
             "state" : "translated",
             "value" : "没有分栏"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Spalten"
+          }
         }
       }
     },
@@ -2993,6 +4808,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无描述"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Beschreibung"
           }
         }
       }
@@ -3004,6 +4825,12 @@
             "state" : "translated",
             "value" : "无截止日期"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kein Fälligkeitsdatum"
+          }
         }
       }
     },
@@ -3013,6 +4840,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有匹配的标签。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine passenden Labels."
           }
         }
       }
@@ -3024,6 +4857,12 @@
             "state" : "translated",
             "value" : "尚无标签。在上方输入名称即可创建。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noch keine Labels. Gib oben einen Namen ein, um eines zu erstellen."
+          }
         }
       }
     },
@@ -3033,6 +4872,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "目前还没有其他人能看到此项目。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bisher kann niemand sonst dieses Projekt sehen."
           }
         }
       }
@@ -3044,6 +4889,12 @@
             "state" : "translated",
             "value" : "没有匹配的成员。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine passenden Personen."
+          }
         }
       }
     },
@@ -3053,6 +4904,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有标题与搜索内容匹配的未完成任务。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine offene Aufgabe passt zu deiner Suche."
           }
         }
       }
@@ -3064,6 +4921,12 @@
             "state" : "translated",
             "value" : "没有待处理任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine ausstehenden Aufgaben"
+          }
         }
       }
     },
@@ -3073,6 +4936,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有项目"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Projekte"
           }
         }
       }
@@ -3084,6 +4953,12 @@
             "state" : "translated",
             "value" : "无结果"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Ergebnisse"
+          }
         }
       }
     },
@@ -3093,6 +4968,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Aufgaben"
           }
         }
       }
@@ -3104,6 +4985,12 @@
             "state" : "translated",
             "value" : "没有即将到期的任务。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine anstehenden Aufgaben."
+          }
         }
       }
     },
@@ -3113,6 +5000,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "本周没有到期任务。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diese Woche ist nichts fällig."
           }
         }
       }
@@ -3124,6 +5017,12 @@
             "state" : "translated",
             "value" : "明天没有到期任务。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morgen ist nichts fällig."
+          }
         }
       }
     },
@@ -3133,6 +5032,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "当天没有任务或日程"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Aufgaben oder Ereignisse an diesem Tag"
           }
         }
       }
@@ -3144,6 +5049,12 @@
             "state" : "translated",
             "value" : "无"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine"
+          }
         }
       }
     },
@@ -3153,6 +5064,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无（顶层）"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keines (oberste Ebene)"
           }
         }
       }
@@ -3164,16 +5081,37 @@
             "state" : "translated",
             "value" : "未配置"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht eingerichtet"
+          }
         }
       }
     },
-    "Not done" : {},
+    "Not done" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht erledigt"
+          }
+        }
+      }
+    },
     "Not synced" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "未同步"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht synchronisiert"
           }
         }
       }
@@ -3185,6 +5123,12 @@
             "state" : "translated",
             "value" : "本周无事项"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nichts diese Woche"
+          }
         }
       }
     },
@@ -3194,6 +5138,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "明天无事项"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nichts morgen"
           }
         }
       }
@@ -3205,6 +5155,12 @@
             "state" : "translated",
             "value" : "近期无事项"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nichts demnächst"
+          }
         }
       }
     },
@@ -3215,6 +5171,12 @@
             "state" : "translated",
             "value" : "通知"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitteilung"
+          }
         }
       }
     },
@@ -3224,6 +5186,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "通知"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitteilungen"
           }
         }
       }
@@ -3259,6 +5227,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Mitteilungen, %lld ungelesen"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Mitteilungen, %lld ungelesen"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -3268,6 +5254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "好"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         }
       }
@@ -3279,6 +5271,12 @@
             "state" : "translated",
             "value" : "离线数据库已重建"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Offline-Datenbank neu aufgebaut"
+          }
         }
       }
     },
@@ -3288,6 +5286,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "只有已启用日历中的日程才会显示在 mDone 的“日历”和“今天”视图中。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nur Ereignisse aus den Kalendern, die du einschaltest, erscheinen in den Ansichten „Kalender“ und „Heute“ von mDone."
           }
         }
       }
@@ -3299,6 +5303,12 @@
             "state" : "translated",
             "value" : "只能指派在 Vikunja 中与此项目共享的成员。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zuweisen kannst du nur Personen, mit denen dieses Projekt in Vikunja geteilt ist."
+          }
         }
       }
     },
@@ -3308,6 +5318,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "打开“设置”，确认服务器 URL 以 https:// 或 http:// 开头。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffne die Einstellungen und prüfe, ob deine Server-Adresse mit https:// oder http:// beginnt."
           }
         }
       }
@@ -3319,6 +5335,12 @@
             "state" : "translated",
             "value" : "请先打开 mDone 并登录 Vikunja 服务器。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffne zuerst mDone und melde dich bei deinem Vikunja-Server an."
+          }
         }
       }
     },
@@ -3328,6 +5350,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "打开身份验证器应用，并输入当前的6位验证码。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffne deine Authentifizierungs-App und gib den aktuellen sechsstelligen Code ein."
           }
         }
       }
@@ -3339,6 +5367,12 @@
             "state" : "translated",
             "value" : "打开 mDone，并显示可立即新建任务的快速添加栏"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffnet mDone mit der Leiste zum schnellen Hinzufügen einer neuen Aufgabe"
+          }
         }
       }
     },
@@ -3348,6 +5382,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "可选"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Optional"
           }
         }
       }
@@ -3359,6 +5399,12 @@
             "state" : "translated",
             "value" : "逾期"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Überfällig"
+          }
         }
       }
     },
@@ -3368,6 +5414,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "逾期任务与其他任务一样显示：不标红，也不单独显示逾期列表或数量。它们仍会出现在列表和小组件中。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Überfällige Aufgaben erscheinen wie alle anderen: kein Rot, keine eigene Liste „Überfällig“ und keine Zähler. Sie bleiben in deinen Listen und Widgets sichtbar."
           }
         }
       }
@@ -3379,6 +5431,12 @@
             "state" : "translated",
             "value" : "父级"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Übergeordnet"
+          }
         }
       }
     },
@@ -3388,6 +5446,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "父项目"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Übergeordnetes Projekt"
           }
         }
       }
@@ -3399,6 +5463,12 @@
             "state" : "translated",
             "value" : "父任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Übergeordnete Aufgabe"
+          }
         }
       }
     },
@@ -3408,6 +5478,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "密码"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passwort"
           }
         }
       }
@@ -3419,6 +5495,12 @@
             "state" : "translated",
             "value" : "粘贴你的 API 令牌"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "API-Token einfügen"
+          }
         }
       }
     },
@@ -3428,6 +5510,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "暂停"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pausieren"
           }
         }
       }
@@ -3439,6 +5527,12 @@
             "state" : "translated",
             "value" : "暂停专注计时器"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokustimer pausieren"
+          }
         }
       }
     },
@@ -3448,6 +5542,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已暂停"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pausiert"
           }
         }
       }
@@ -3459,6 +5559,12 @@
             "state" : "translated",
             "value" : "待处理"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausstehend"
+          }
         }
       }
     },
@@ -3468,6 +5574,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "先于"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geht voraus"
           }
         }
       }
@@ -3479,6 +5591,12 @@
             "state" : "translated",
             "value" : "预览描述"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorschau der Beschreibung"
+          }
         }
       }
     },
@@ -3488,6 +5606,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "上个月"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorheriger Monat"
           }
         }
       }
@@ -3499,6 +5623,12 @@
             "state" : "translated",
             "value" : "优先级"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priorität"
+          }
         }
       }
     },
@@ -3508,6 +5638,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "优先级 %lld"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priorität %lld"
           }
         }
       }
@@ -3519,6 +5655,12 @@
             "state" : "translated",
             "value" : "优先级：%@"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priorität: %@"
+          }
         }
       }
     },
@@ -3528,6 +5670,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "进度"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortschritt"
           }
         }
       }
@@ -3539,6 +5687,12 @@
             "state" : "translated",
             "value" : "项目"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projekt"
+          }
         }
       }
     },
@@ -3548,6 +5702,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "项目%lld"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projekt %lld"
           }
         }
       }
@@ -3559,6 +5719,12 @@
             "state" : "translated",
             "value" : "项目名称"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projektname"
+          }
         }
       }
     },
@@ -3568,6 +5734,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "项目"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projekte"
           }
         }
       }
@@ -3579,6 +5751,12 @@
             "state" : "translated",
             "value" : "项目打开方式"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projekte öffnen in"
+          }
         }
       }
     },
@@ -3588,6 +5766,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你归档的项目会显示在这里"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projekte, die du archivierst, erscheinen hier"
           }
         }
       }
@@ -3599,6 +5783,12 @@
             "state" : "translated",
             "value" : "快速添加任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgabe schnell hinzufügen"
+          }
         }
       }
     },
@@ -3608,6 +5798,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已读"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gelesen"
           }
         }
       }
@@ -3619,6 +5815,12 @@
             "state" : "translated",
             "value" : "刷新"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisieren"
+          }
         }
       }
     },
@@ -3628,6 +5830,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "刷新所有数据"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Daten aktualisieren"
           }
         }
       }
@@ -3639,6 +5847,12 @@
             "state" : "translated",
             "value" : "相关"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verknüpft"
+          }
         }
       }
     },
@@ -3648,6 +5862,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "相关任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verknüpfte Aufgaben"
           }
         }
       }
@@ -3659,6 +5879,12 @@
             "state" : "translated",
             "value" : "提前提醒"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erinnern vor"
+          }
         }
       }
     },
@@ -3668,6 +5894,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "提醒"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erinnerung"
           }
         }
       }
@@ -3679,6 +5911,12 @@
             "state" : "translated",
             "value" : "提醒日期"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erinnerungsdatum"
+          }
         }
       }
     },
@@ -3688,6 +5926,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "提醒"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erinnerungen"
           }
         }
       }
@@ -3699,6 +5943,12 @@
             "state" : "translated",
             "value" : "移除%@"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ entfernen"
+          }
         }
       }
     },
@@ -3708,6 +5958,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "移除%@与%@的关系"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@-Verknüpfung zu %@ entfernen"
           }
         }
       }
@@ -3719,6 +5975,12 @@
             "state" : "translated",
             "value" : "取消“当前”标记"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aus „Aktuell“ entfernen"
+          }
         }
       }
     },
@@ -3728,6 +5990,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "从收藏中移除"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aus Favoriten entfernen"
           }
         }
       }
@@ -3739,6 +6007,12 @@
             "state" : "translated",
             "value" : "重复"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederholen"
+          }
         }
       }
     },
@@ -3748,6 +6022,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重复中"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederkehrend"
           }
         }
       }
@@ -3759,6 +6039,12 @@
             "state" : "translated",
             "value" : "报告问题或请求新功能"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler melden oder Funktion vorschlagen"
+          }
         }
       }
     },
@@ -3768,6 +6054,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重置"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zurücksetzen"
           }
         }
       }
@@ -3779,6 +6071,12 @@
             "state" : "translated",
             "value" : "结果（%lld）"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ergebnisse (%lld)"
+          }
         }
       }
     },
@@ -3788,6 +6086,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "继续"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortsetzen"
           }
         }
       }
@@ -3799,6 +6103,12 @@
             "state" : "translated",
             "value" : "继续专注计时"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokus-Timer fortsetzen"
+          }
         }
       }
     },
@@ -3808,6 +6118,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "星期六"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samstag"
           }
         }
       }
@@ -3819,6 +6135,12 @@
             "state" : "translated",
             "value" : "保存"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speichern"
+          }
         }
       }
     },
@@ -3828,6 +6150,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "日程"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Planen"
           }
         }
       }
@@ -3839,6 +6167,12 @@
             "state" : "translated",
             "value" : "搜索或添加标签"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Label suchen oder hinzufügen"
+          }
         }
       }
     },
@@ -3848,6 +6182,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "搜索成员"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personen suchen"
           }
         }
       }
@@ -3859,6 +6199,12 @@
             "state" : "translated",
             "value" : "搜索任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgaben suchen"
+          }
         }
       }
     },
@@ -3868,6 +6214,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择一个部分"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bereich auswählen"
           }
         }
       }
@@ -3879,6 +6231,12 @@
             "state" : "translated",
             "value" : "选择一个任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgabe auswählen"
+          }
         }
       }
     },
@@ -3888,6 +6246,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "服务器"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server"
           }
         }
       }
@@ -3899,6 +6263,12 @@
             "state" : "translated",
             "value" : "服务器 URL"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server-Adresse"
+          }
         }
       }
     },
@@ -3908,6 +6278,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "服务器正忙，请稍后再试。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Server ist ausgelastet. Bitte versuche es später erneut."
           }
         }
       }
@@ -3919,6 +6295,12 @@
             "state" : "translated",
             "value" : "设置"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Festlegen"
+          }
         }
       }
     },
@@ -3928,6 +6310,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "设置进度"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortschritt festlegen"
           }
         }
       }
@@ -3939,6 +6327,12 @@
             "state" : "translated",
             "value" : "设置"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
+          }
         }
       }
     },
@@ -3948,6 +6342,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "显示全部"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle anzeigen"
           }
         }
       }
@@ -3959,6 +6359,12 @@
             "state" : "translated",
             "value" : "显示全天日程"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ganztägige Ereignisse anzeigen"
+          }
         }
       }
     },
@@ -3968,6 +6374,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "显示看板"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Board anzeigen"
           }
         }
       }
@@ -3979,6 +6391,12 @@
             "state" : "translated",
             "value" : "显示列表"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liste anzeigen"
+          }
         }
       }
     },
@@ -3988,6 +6406,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "显示令牌"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Token anzeigen"
           }
         }
       }
@@ -3999,6 +6423,12 @@
             "state" : "translated",
             "value" : "使用 Vikunja 用户名和密码登录。如果账户已启用双重认证，还需输入身份验证器应用中的验证码。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Melde dich mit deinem Vikunja-Benutzernamen und Passwort an. Ist für dein Konto die Zwei-Faktor-Authentifizierung aktiviert, gib zusätzlich den Code aus deiner Authentifizierungs-App ein."
+          }
         }
       }
     },
@@ -4008,6 +6438,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "类似任务约用时%@，轻点采用"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ähnliche Aufgaben dauerten ca. %@, zum Übernehmen tippen"
           }
         }
       }
@@ -4019,6 +6455,12 @@
             "state" : "translated",
             "value" : "单点登录需要 HTTPS 地址。服务器提供的地址不安全，iOS 无法打开。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Single Sign-on braucht eine https-Adresse. Dein Server bietet eine unsichere an, die iOS nicht öffnet."
+          }
         }
       }
     },
@@ -4028,6 +6470,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siri 添加任务的截止日期"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siri-Aufgaben fällig"
           }
         }
       }
@@ -4039,6 +6487,12 @@
             "state" : "translated",
             "value" : "跳过"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Überspringen"
+          }
         }
       }
     },
@@ -4048,6 +6502,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "跳到下一个任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zur nächsten Aufgabe springen"
           }
         }
       }
@@ -4059,6 +6519,12 @@
             "state" : "translated",
             "value" : "智能列表"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intelligente Listen"
+          }
         }
       }
     },
@@ -4068,6 +6534,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "快速添加时智能解析"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intelligente Erkennung beim schnellen Hinzufügen"
           }
         }
       }
@@ -4079,6 +6551,12 @@
             "state" : "translated",
             "value" : "部分更改无法同步"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einige Änderungen konnten nicht synchronisiert werden"
+          }
         }
       }
     },
@@ -4088,6 +6566,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "某人"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jemand"
           }
         }
       }
@@ -4099,6 +6583,12 @@
             "state" : "translated",
             "value" : "请求出现问题，请重试。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bei dieser Anfrage ist etwas schiefgelaufen. Bitte versuche es erneut."
+          }
         }
       }
     },
@@ -4108,6 +6598,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "出现问题。请检查网络连接后重试。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etwas ist schiefgelaufen. Bitte prüfe deine Verbindung und versuche es erneut."
           }
         }
       }
@@ -4119,6 +6615,12 @@
             "state" : "translated",
             "value" : "按%@排序"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nach %@ sortieren"
+          }
         }
       }
     },
@@ -4128,6 +6630,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "按%@升序排列"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nach %@ sortieren, aufsteigend"
           }
         }
       }
@@ -4139,6 +6647,12 @@
             "state" : "translated",
             "value" : "按%@降序排列"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nach %@ sortieren, absteigend"
+          }
         }
       }
     },
@@ -4148,6 +6662,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "排序任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgaben sortieren"
           }
         }
       }
@@ -4159,6 +6679,12 @@
             "state" : "translated",
             "value" : "在 GitHub 上赞助"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auf GitHub unterstützen"
+          }
         }
       }
     },
@@ -4168,6 +6694,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "标准"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard"
           }
         }
       }
@@ -4179,6 +6711,12 @@
             "state" : "translated",
             "value" : "开始日期"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beginn"
+          }
         }
       }
     },
@@ -4188,6 +6726,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "开始专注"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokus starten"
           }
         }
       }
@@ -4199,6 +6743,12 @@
             "state" : "translated",
             "value" : "开始连续专注"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokusserie starten"
+          }
         }
       }
     },
@@ -4208,6 +6758,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "开始日期不能晚于结束日期。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Beginn darf nicht nach dem Ende liegen."
           }
         }
       }
@@ -4219,6 +6775,12 @@
             "state" : "translated",
             "value" : "每周起始日"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Woche beginnt am"
+          }
         }
       }
     },
@@ -4228,6 +6790,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "开始于%@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beginnt %@"
           }
         }
       }
@@ -4239,6 +6807,12 @@
             "state" : "translated",
             "value" : "状态"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
         }
       }
     },
@@ -4248,6 +6822,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "子任务"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unteraufgabe"
           }
         }
       }
@@ -4259,6 +6839,12 @@
             "state" : "translated",
             "value" : "子任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unteraufgaben"
+          }
         }
       }
     },
@@ -4268,6 +6854,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "子任务会在列表中嵌套显示在此任务下方。取消关联不会删除任务。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unteraufgaben erscheinen in deinen Listen unter dieser Aufgabe. Beim Lösen der Verknüpfung wird keine Aufgabe gelöscht."
           }
         }
       }
@@ -4279,6 +6871,12 @@
             "state" : "translated",
             "value" : "星期日"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonntag"
+          }
         }
       }
     },
@@ -4288,6 +6886,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "支持 mDone"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mDone unterstützen"
           }
         }
       }
@@ -4299,6 +6903,12 @@
             "state" : "translated",
             "value" : "立即同步"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetzt synchronisieren"
+          }
         }
       }
     },
@@ -4308,6 +6918,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已触发同步，请检查待处理数量"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchronisierung gestartet, ausstehende Anzahl prüfen"
           }
         }
       }
@@ -4319,6 +6935,12 @@
             "state" : "translated",
             "value" : "正在同步…"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchronisieren …"
+          }
         }
       }
     },
@@ -4328,6 +6950,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "跟随系统"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System"
           }
         }
       }
@@ -4339,6 +6967,12 @@
             "state" : "translated",
             "value" : "任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgabe"
+          }
         }
       }
     },
@@ -4348,6 +6982,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "任务行大小"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeilengröße"
           }
         }
       }
@@ -4359,6 +6999,12 @@
             "state" : "translated",
             "value" : "任务行大小决定每个任务在列表中占用的空间。“紧凑”可在屏幕上显示更多任务；“大”则更易阅读。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Zeilengröße legt fest, wie viel Platz jede Aufgabe in deinen Listen einnimmt. „Kompakt“ zeigt mehr auf einmal, „Groß“ macht Aufgaben leichter lesbar."
+          }
         }
       }
     },
@@ -4368,6 +7014,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "任务标题"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titel der Aufgabe"
           }
         }
       }
@@ -4379,6 +7031,12 @@
             "state" : "translated",
             "value" : "任务"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgaben"
+          }
         }
       }
     },
@@ -4388,6 +7046,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "从收件箱或通过 Siri 添加的任务会进入默认项目。“自动”会使用名为“收件箱”的项目，如果没有，则使用第一个项目。默认截止时间在这些任务获得截止日期时生效：请选择当天较晚的时间，以免新任务立即显示为逾期。开启智能解析后，mDone 会从你在快速添加栏中输入的内容里识别日期、+项目、!优先级和 *标签，并把每一项显示为一个标签块，你可以在添加前移除它。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgaben, die du im Eingang oder über Siri hinzufügst, landen im Standardprojekt. „Automatisch“ nimmt dein Projekt namens „Inbox“ oder, falls es keines gibt, dein erstes Projekt. Die Standard-Fälligkeitszeit gilt, wenn diese Aufgaben ein Fälligkeitsdatum bekommen: Wähle eine spätere Tageszeit, damit eine neue Aufgabe nicht sofort als überfällig erscheint. Die intelligente Erkennung liest Datumsangaben, +Projekt, !Priorität und *Label aus deiner Eingabe in der Schnelleingabe und zeigt jede Angabe als Markierung, die du vor dem Hinzufügen entfernen kannst."
           }
         }
       }
@@ -4399,6 +7063,12 @@
             "state" : "translated",
             "value" : "标记为“当前”的任务会带着进度条置于列表顶部。任务超过指定天数未更新时会显示闲置标记。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgaben, die du als „Aktuell“ markierst, stehen mit einem Fortschrittsbalken oben in deiner Liste. Eine Ruhe-Markierung erscheint, wenn eine so viele Tage lang nicht bearbeitet wurde."
+          }
         }
       }
     },
@@ -4408,6 +7078,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "团队功能"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Team-Funktionen"
           }
         }
       }
@@ -4419,6 +7095,12 @@
             "state" : "translated",
             "value" : "团队"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teams"
+          }
         }
       }
     },
@@ -4428,6 +7110,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "双重认证验证码未被接受。验证码每30秒更新一次，请检查身份验证器应用后重试。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieser Zwei-Faktor-Code wurde nicht akzeptiert. Codes wechseln alle 30 Sekunden, prüfe also deine Authentifizierungs-App und versuche es erneut."
           }
         }
       }
@@ -4439,6 +7127,12 @@
             "state" : "translated",
             "value" : "请求超时。请检查网络连接后重试。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeitüberschreitung bei der Anfrage. Bitte prüfe deine Verbindung und versuche es erneut."
+          }
         }
       }
     },
@@ -4448,6 +7142,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "服务器 URL 似乎不正确，请在“设置”中检查。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Server-Adresse scheint nicht zu stimmen. Bitte prüfe sie in den Einstellungen."
           }
         }
       }
@@ -4459,6 +7159,12 @@
             "state" : "translated",
             "value" : "服务器出现问题，请稍后重试。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Server hat Probleme. Bitte versuche es gleich noch einmal."
+          }
         }
       }
     },
@@ -4468,6 +7174,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "服务器限制了请求频率，请稍候再试。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Server begrenzt die Anfragen. Warte einen Moment und versuche es erneut."
           }
         }
       }
@@ -4479,6 +7191,12 @@
             "state" : "translated",
             "value" : "服务器可能暂时不可用，请稍候再试。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Server ist möglicherweise vorübergehend nicht erreichbar. Warte einen Moment und versuche es erneut."
+          }
         }
       }
     },
@@ -4488,6 +7206,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "任务需要标题。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Aufgabe braucht einen Titel."
           }
         }
       }
@@ -4499,6 +7223,12 @@
             "state" : "translated",
             "value" : "所选任务将成为“%@”的子任务，并仍保留在原项目中。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die gewählte Aufgabe wird zur Unteraufgabe von „%@“. Sie bleibt in ihrem eigenen Projekt."
+          }
         }
       }
     },
@@ -4508,6 +7238,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "项目打开时使用的视图。仅当项目在服务器上设有看板分栏时才提供看板视图。通过工具栏按钮为单个项目切换视图后，系统会记住该选择并覆盖此设置。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Ansicht, in der sich ein Projekt öffnet. Boards gibt es nur für Projekte, die auf dem Server Spalten haben. Wechselst du bei einem Projekt mit der Taste in seiner Symbolleiste, wird das für dieses Projekt gemerkt und hat Vorrang."
           }
         }
       }
@@ -4519,6 +7255,12 @@
             "state" : "translated",
             "value" : "如果在发送前退出，这些更改将会丢失。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sie gehen verloren, wenn du die App beendest, bevor sie gesendet wurden."
+          }
         }
       }
     },
@@ -4528,6 +7270,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "本月"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diesen Monat"
           }
         }
       }
@@ -4539,6 +7287,12 @@
             "state" : "translated",
             "value" : "本周"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diese Woche"
+          }
         }
       }
     },
@@ -4549,6 +7303,12 @@
             "state" : "translated",
             "value" : "此账户已启用双重认证。请输入身份验证器应用中的验证码以登录。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Für dieses Konto ist die Zwei-Faktor-Authentifizierung aktiviert. Gib zum Anmelden den Code aus deiner Authentifizierungs-App ein."
+          }
         }
       }
     },
@@ -4558,6 +7318,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "此操作无法撤销。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diese Aktion kann nicht widerrufen werden."
           }
         }
       }
@@ -4593,6 +7359,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Damit werden das Projekt und %lld darin enthaltene Aufgabe endgültig gelöscht, einschließlich aller Unterprojekte. Das kann nicht widerrufen werden."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Damit werden das Projekt und alle %lld darin enthaltenen Aufgaben endgültig gelöscht, einschließlich aller Unterprojekte. Das kann nicht widerrufen werden."
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -4602,6 +7386,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "这将永久删除该项目及其中的全部任务，包括所有子项目。此操作无法撤销。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Damit werden das Projekt und alle seine Aufgaben endgültig gelöscht, einschließlich aller Unterprojekte. Das kann nicht widerrufen werden."
           }
         }
       }
@@ -4613,6 +7403,12 @@
             "state" : "translated",
             "value" : "此项目尚无看板分栏"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieses Projekt hat noch keine Spalten"
+          }
         }
       }
     },
@@ -4622,6 +7418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "此服务器的单点登录地址似乎不正确。请检查服务器上的提供商配置。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Single-Sign-on-Adresse dieses Servers scheint nicht zu stimmen. Prüfe die Anbieter-Einrichtung auf deinem Server."
           }
         }
       }
@@ -4633,6 +7435,12 @@
             "state" : "translated",
             "value" : "此服务器的单点登录提供商缺少客户端 ID。请检查服务器上的提供商配置。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beim Single-Sign-on-Anbieter dieses Servers fehlt eine Client-ID. Prüfe die Anbieter-Einrichtung auf deinem Server."
+          }
         }
       }
     },
@@ -4642,6 +7450,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "这将移除服务器配置，你需要重新连接。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dadurch wird deine Server-Konfiguration entfernt. Du musst dich danach neu verbinden."
           }
         }
       }
@@ -4667,6 +7481,12 @@
             "state" : "translated",
             "value" : "标题"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titel"
+          }
         }
       }
     },
@@ -4676,6 +7496,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "到"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bis"
           }
         }
       }
@@ -4687,6 +7513,12 @@
             "state" : "translated",
             "value" : "今天"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute"
+          }
         }
       }
     },
@@ -4696,6 +7528,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天的日程"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heutige Ereignisse"
           }
         }
       }
@@ -4707,6 +7545,12 @@
             "state" : "translated",
             "value" : "明天"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morgen"
+          }
         }
       }
     },
@@ -4716,6 +7560,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "顶层"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oberste Ebene"
           }
         }
       }
@@ -4727,6 +7577,12 @@
             "state" : "translated",
             "value" : "重试"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erneut versuchen"
+          }
         }
       }
     },
@@ -4736,6 +7592,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "尝试其他搜索内容或筛选条件"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versuche eine andere Suche oder einen anderen Filter"
           }
         }
       }
@@ -4747,6 +7609,12 @@
             "state" : "translated",
             "value" : "请重试。如果问题持续出现，请检查网络连接或重新启动应用。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versuche es erneut. Besteht das Problem weiter, prüfe deine Internetverbindung oder starte die App neu."
+          }
         }
       }
     },
@@ -4756,6 +7624,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请尝试靠近路由器或切换到其他网络。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geh näher an deinen Router oder wechsle in ein anderes Netzwerk."
           }
         }
       }
@@ -4767,6 +7641,12 @@
             "state" : "translated",
             "value" : "关闭后，mDone 的“日历”和“今天”视图将隐藏全天日程。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausschalten, um ganztägige Ereignisse in den Ansichten „Kalender“ und „Heute“ von mDone auszublenden."
+          }
         }
       }
     },
@@ -4777,12 +7657,24 @@
             "state" : "translated",
             "value" : "双重认证验证码"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zwei-Faktor-Code"
+          }
         }
       }
     },
     "URL" : {
       "localizations" : {
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
+          }
+        },
+        "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "URL"
@@ -4797,6 +7689,12 @@
             "state" : "translated",
             "value" : "取消归档"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederherstellen"
+          }
         }
       }
     },
@@ -4806,6 +7704,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "撤销"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widerrufen"
           }
         }
       }
@@ -4817,6 +7721,12 @@
             "state" : "translated",
             "value" : "撤销完成"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erledigt widerrufen"
+          }
         }
       }
     },
@@ -4826,6 +7736,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "撤销完成“%@”？"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erledigen von „%@“ widerrufen?"
           }
         }
       }
@@ -4837,6 +7753,12 @@
             "state" : "translated",
             "value" : "撤销完成？"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erledigt widerrufen?"
+          }
         }
       }
     },
@@ -4846,6 +7768,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "未完成"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht erledigt"
           }
         }
       }
@@ -4857,6 +7785,12 @@
             "state" : "translated",
             "value" : "未知"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbekannt"
+          }
         }
       }
     },
@@ -4866,6 +7800,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "未读：%@，%@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ungelesen: %@, %@"
           }
         }
       }
@@ -4877,6 +7817,12 @@
             "state" : "translated",
             "value" : "无标题"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ohne Titel"
+          }
         }
       }
     },
@@ -4886,6 +7832,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "下一个"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als Nächstes"
           }
         }
       }
@@ -4897,6 +7849,12 @@
             "state" : "translated",
             "value" : "即将到期"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Demnächst"
+          }
         }
       }
     },
@@ -4906,6 +7864,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "紧急"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dringend"
           }
         }
       }
@@ -4917,6 +7881,12 @@
             "state" : "translated",
             "value" : "用户名"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzername"
+          }
         }
       }
     },
@@ -4926,6 +7896,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请确认服务器正在运行，且“设置”中的 URL 正确。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prüfe, ob der Server läuft und die Adresse in den Einstellungen stimmt."
           }
         }
       }
@@ -4937,6 +7913,12 @@
             "state" : "translated",
             "value" : "版本%@（%@）"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %@ (%@)"
+          }
         }
       }
     },
@@ -4946,6 +7928,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在 GitHub 上查看源代码"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quellcode auf GitHub ansehen"
           }
         }
       }
@@ -4957,6 +7945,12 @@
             "state" : "translated",
             "value" : "服务器返回了意外响应，请重试。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Server hat unerwartet geantwortet. Bitte versuche es erneut."
+          }
         }
       }
     },
@@ -4966,6 +7960,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每周"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wöchentlich"
           }
         }
       }
@@ -4977,6 +7977,12 @@
             "state" : "translated",
             "value" : "要添加什么任务？"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Was ist zu tun?"
+          }
         }
       }
     },
@@ -4987,6 +7993,12 @@
             "state" : "translated",
             "value" : "用户名或密码错误。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falscher Benutzername oder falsches Passwort."
+          }
         }
       }
     },
@@ -4996,6 +8008,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每年"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jährlich"
           }
         }
       }
@@ -5031,6 +8049,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Du hast %lld Aufgabe erledigt."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Du hast %lld Aufgaben erledigt."
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -5041,6 +8077,12 @@
             "state" : "translated",
             "value" : "你今天没有到期任务。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute ist keine Aufgabe fällig."
+          }
         }
       }
     },
@@ -5050,6 +8092,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "全部处理完毕！"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alles erledigt!"
           }
         }
       }
@@ -5085,6 +8133,24 @@
               }
             }
           }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Du bist offline. %lld Änderung wird synchronisiert, sobald du wieder verbunden bist."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Du bist offline. %lld Änderungen werden synchronisiert, sobald du wieder verbunden bist."
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -5094,6 +8160,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你当前处于离线状态。正在显示上次同步的任务。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du bist offline. Angezeigt werden deine zuletzt synchronisierten Aufgaben."
           }
         }
       }
@@ -5105,6 +8177,12 @@
             "state" : "translated",
             "value" : "你当前处于离线状态。恢复在线后将同步更改。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du bist offline. Deine Änderungen werden synchronisiert, sobald du wieder online bist."
+          }
         }
       }
     },
@@ -5114,6 +8192,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你的 API 令牌没有执行此操作的权限。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein API-Token hat dafür keine Berechtigung."
           }
         }
       }
@@ -5125,6 +8209,12 @@
             "state" : "translated",
             "value" : "会话已过期，请重新登录。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Sitzung ist abgelaufen. Bitte melde dich erneut an."
+          }
         }
       }
     },
@@ -5134,6 +8224,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已完成"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "erledigt"
           }
         }
       }
@@ -5145,6 +8241,12 @@
             "state" : "translated",
             "value" : "日期范围：%@至%@"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeitraum %@ bis %@"
+          }
         }
       }
     },
@@ -5154,6 +8256,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "截止于%@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "fällig %@"
           }
         }
       }
@@ -5165,12 +8273,24 @@
             "state" : "translated",
             "value" : "结束于%@"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "endet %@"
+          }
         }
       }
     },
     "https://focus.example.com" : {
       "localizations" : {
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://focus.example.com"
+          }
+        },
+        "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "https://focus.example.com"
@@ -5185,12 +8305,24 @@
             "state" : "translated",
             "value" : "https://vikunja.example.com"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://vikunja.example.com"
+          }
         }
       }
     },
     "mDone" : {
       "localizations" : {
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mDone"
+          }
+        },
+        "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "mDone"
@@ -5205,6 +8337,12 @@
             "state" : "translated",
             "value" : "mDone 无法打开离线数据库，因此已重建任务缓存。所有内容将从服务器重新加载。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mDone konnte seine Offline-Datenbank nicht öffnen, daher wurde die zwischengespeicherte Kopie deiner Aufgaben neu aufgebaut. Alles wird neu vom Server geladen."
+          }
         }
       }
     },
@@ -5214,6 +8352,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "mDone 无法打开或重新创建离线数据库，因此目前未使用离线数据库运行。任务仍会从服务器加载，但离线时所做的任何更改都会在退出应用后丢失。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mDone konnte seine Offline-Datenbank weder öffnen noch neu anlegen und läuft daher ohne. Deine Aufgaben werden weiterhin vom Server geladen, aber alles, was du offline änderst, geht beim Beenden der App verloren."
           }
         }
       }
@@ -5225,6 +8369,12 @@
             "state" : "translated",
             "value" : "mDone 没有可显示的日历。请先在“日历”标签页中授予日历访问权限。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mDone hat keine Kalender zum Anzeigen. Erlaube zuerst im Tab „Kalender“ den Kalenderzugriff."
+          }
         }
       }
     },
@@ -5234,6 +8384,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "mDone 中没有可用于添加任务的项目。请先打开一次应用以加载项目。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mDone hat kein Projekt, dem die Aufgabe hinzugefügt werden kann. Öffne die App einmal, um deine Projekte zu laden."
           }
         }
       }
@@ -5245,12 +8401,24 @@
             "state" : "translated",
             "value" : "mDone 由一人独立开发和维护。如果它对你有帮助，打赏或赞助将有助于项目持续发展。"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mDone wird von einer einzelnen Person entwickelt und gepflegt. Wenn dir die App hilft, unterstützt ein Trinkgeld oder eine Förderung ihre Weiterentwicklung."
+          }
         }
       }
     },
     "macOS" : {
       "localizations" : {
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS"
+          }
+        },
+        "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "macOS"
@@ -5265,6 +8433,12 @@
             "state" : "translated",
             "value" : "或"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "oder"
+          }
         }
       }
     },
@@ -5274,6 +8448,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "逾期"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "überfällig"
           }
         }
       }
@@ -5285,6 +8465,12 @@
             "state" : "translated",
             "value" : "优先级%@"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priorität %@"
+          }
         }
       }
     },
@@ -5294,6 +8480,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "开始于%@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "beginnt %@"
           }
         }
       }
@@ -5305,6 +8497,12 @@
             "state" : "translated",
             "value" : "开始于%@，结束于%@"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "beginnt %@, endet %@"
+          }
         }
       }
     },
@@ -5315,6 +8513,12 @@
             "state" : "translated",
             "value" : "服务器拒绝了该操作"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vom Server abgelehnt"
+          }
         }
       }
     },
@@ -5324,6 +8528,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你的项目"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dein Projekt"
           }
         }
       }
